@@ -1,4 +1,4 @@
-package stack;
+package Calculator;
 
 import java.util.Scanner;
 import java.util.Stack; 
