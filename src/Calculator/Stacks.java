@@ -1,4 +1,4 @@
-package LetterStacking;
+package Calculator;
 import java.util.List;
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package LetterStacking;
+package Calculator;
 
 public interface StackInterface <T> {
 
