@@ -1,12 +1,16 @@
 package Calculator;
 
-public interface StackInterface <T> {
-
+public interface StackInterface <T>{
+	
+	
+	public void push(T anEntry);
+	
+	public T pop();
+	
+	public T peek();
+	
 	public boolean isEmpty();
 	
-	public void peek();
+	public void clear();
 	
-	public void pop();
-	
-	public void push();
 }
